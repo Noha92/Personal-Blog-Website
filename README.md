@@ -1,14 +1,3 @@
 # Personal-Blog-Website
-# Landing Page Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+personal blog website designed and built from scratch using HTML and CSS. Layouts are made with CSS grid along with flexbox. This project is made as part of the Udacity Front End Developer Nanodegree Program.
+This project requires you to utilize your HTML and CSS skills to build out a personal blog website, including custom images, layout, and styling. 
